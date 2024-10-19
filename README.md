@@ -7,3 +7,4 @@ byte 5: cp byte5.c /tmp,cd /tmp,mkdir fname,cp byte5.c fname,gcc -o byte5.c file
 byte 8: vim/pico/xxd carriage_return.txt
 byte 9: cat /home/byte9/-                 
 byte 10: sort -d names.txt | head              
+byte 11: sort births.txt | uniq -c | uniq -u | sort -d
