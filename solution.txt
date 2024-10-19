@@ -22,3 +22,4 @@ No one will find this: grep_is_your_friend
 byte 3: players > programmers
 byte 4: you_just_found_the_triwizard_cup          
 byte 5: Usage: ./filename <SDI>
+byte 8: no_more_secrets_from_you
